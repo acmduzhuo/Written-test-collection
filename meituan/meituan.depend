@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596792564 source:c:\users\dell\desktop\meituan\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+
