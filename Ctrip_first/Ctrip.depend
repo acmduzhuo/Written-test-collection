@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597492479 source:c:\users\dell\desktop\ctrip\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<math.h>
+	<stack>
+	<string.h>
+	<map>
+
