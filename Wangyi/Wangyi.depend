@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596880623 source:c:\users\dell\desktop\wangyi\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<string.h>
+	<map>
+	<stack>
+
